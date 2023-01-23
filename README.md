@@ -2,6 +2,8 @@
 
 some experiments to create wrapper on WritePro methods
 
+:warning: do not use in production, it doesn't work
+
 ```4d
 $doc:=cs.Documen.new()
 
